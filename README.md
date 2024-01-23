@@ -5,7 +5,7 @@ Project: schaakbot.
 
 ## developers checking in 
 * Willem Nelissen: INSTALLATIE OK
-* Bintou Barrie: status onbekend
+* Bintou Barrie: INSTALLATIE OK
 * Robin Berger: PYCHARM + GIT-interface OK
 * Chems Dahhane: installatie OK
 * Adam Idan: status onbekend
